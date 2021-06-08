@@ -1,0 +1,25 @@
+{
+  "name": "Api-NextJs",
+  "version": "1.0.0",
+  "description": "Um Api em NextJs de Testes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eualexdev/Api-NextJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eualexdev/Api-NextJs/issues"
+  },
+  "homepage": "https://github.com/eualexdev/Api-NextJs#readme",
+  "dependencies": {
+    "next": "^10.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
